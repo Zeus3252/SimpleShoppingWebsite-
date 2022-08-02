@@ -1,0 +1,3 @@
+For the input of this project, the user selects their desired items from the “Products” menu. After adding it to the card, it will be visible from the cart menu. A price will be calculated and outputted at the cart also. The website uses a javascript function to calculate the total cost of the items. The user can select the items by typing in a number under the item or pressing the + and - buttons to add or remove an item. There are three products to choose from. The user can navigate the website by using the buttons at the top right of the screen. When checking out, the user has some information they must enter before it is successful. 
+
+Item added to cart -> Price calculated -> User checks out
